@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    top: 0;
+    background-color: #9ac2c9;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+footer{
+    background-color: #9ac2c9;
+    color: white;
+    text-align: center;
+    vertical-align: text-bottom;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+a.nav-l {
+    color: white;
+}
+
+.seleccionado{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 10px;
+    background-color: #8aa1b1;
+}
+
+.seleccionado2 a:hover{
+    color: #4a5043;
+}
+
+.sec{
+    background-color: #8aa1b1;
+    padding: 400px;
+}
+
+.text-prin{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: text-bottom;
+    color: white;
+}
+
+.text-prin2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: text-bottom;
+    color: white;
+}
+
+.sec2{
+    background-color: #b9d8c2;
+    padding: 350px;
+}
+
+.sec3{
+    background-color: #b9d8c2;
+    padding: 350px;
+}
+
+.sec4{
+    background-color: #b9d8c2;
+    padding: 350px;
+}
+
+.sec5{
+    background-color: #b9d8c2;
+    padding: 350px;
+}
+
+.sec6{
+    background-color: #b9d8c2;
+    padding: 350px;
+}
+
+.hob{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: text-bottom;
+    color: white;
+}
+
+.val{
+    background-color: #9ac2c9;
+    border-color: #9ac2c9;
+    border-width: 5px;
+}
+
+.valtm{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.link {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.link2 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.link2 :hover{
+    color: #8aa1b1;
+}
+
+.crd{
+    align-items: center;
+    text-align: center;
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
